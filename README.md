@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MotsonG
 - 👀 I’m interested in Minecraft & Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and already know LuaU for Roblox
 - 💞️ I’m looking to collaborate on many Minecraft Mods, Minecraft Plugins, and Roblox Game Development
 - 📫 How to reach me My X (Twitter) Handle is @MotsonHA, My @Minecraft Username is Motson, My Roblox Username is @HavocAnarchy, My Guilded username is @HavocAnarchy.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am fluent in English (My First Language), and am Learning Italian. I plan on learning Python, JavaScript, C++, and maybe Kotlin and SQL.
