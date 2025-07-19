@@ -2,5 +2,5 @@
 - 👀 I’m interested in Minecraft & Coding
 - 🌱 I’m currently learning Java and already know LuaU for Roblox
 - 💞️ I’m looking to collaborate on many Minecraft Mods, Minecraft Plugins, and Roblox Game Development
-- 📫 How to reach me My X (Twitter) Handle is @MotsonHA, My @Minecraft Username is Motson, My Roblox Username is @HavocAnarchy, My Guilded username is @HavocAnarchy.
+- 📫 How to reach me: My Discord Username is @motsonhv, My Minecraft Username is @Motson, My Roblox Username is @HavocAnarchy, My Guilded username is @HavocAnarchy.
 - 😄 Pronouns: He/Him
